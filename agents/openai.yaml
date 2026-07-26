@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestrate Skills"
+  short_description: "Plan, discover, and execute multi-Skill workflows"
+  default_prompt: "Use $orchestrate-skills to plan the Skills needed for my goal, wait for my approval, and then execute the workflow."
